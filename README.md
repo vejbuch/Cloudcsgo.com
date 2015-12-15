@@ -1,3 +1,3 @@
 # Cloudcsgo.com
 Bot nodejs
-CLOUDCSGO COM
+<a href="http://cloudcsgo.com/">CLOUDCSGO.COM</a>
